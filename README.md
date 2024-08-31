@@ -40,9 +40,9 @@ In **Where Am I?**, you embark on a virtual journey across the globe. The game p
 ## Screenshots
 
 <div align="center">
-	<img width = "33%" src="https://play-lh.googleusercontent.com/fm7Nynl-Lya9Ut8rjRTE5jRg2Orx3clOOdu_GkdpStAiN1DhYvXnJUGzb7dGX9K-Ww=w5120-h2880-rw" alt="Where Am I? Select your adventure">
-  	<img width = "33%" src="https://play-lh.googleusercontent.com/eZBTuPa15H0whvMW5NzovJIw-UTN9ZpCYDNA3GLb0wXlqkOQHXklUen4jGvwZc3MzcZ7=w5120-h2880-rw" alt="Where Am I? - Explore">
-  	<img width = "33%" src="https://play-lh.googleusercontent.com/hcYOarx0ZciOpItsz40PyNK6vWuluxr3pfYHc9_IybjQumHbcsO7jvT3OyCF85E1uDQ=w5120-h2880-rw" alt="Where Am I? - Fall in love">
+	<img width = "30%" src="https://play-lh.googleusercontent.com/fm7Nynl-Lya9Ut8rjRTE5jRg2Orx3clOOdu_GkdpStAiN1DhYvXnJUGzb7dGX9K-Ww=w5120-h2880-rw" alt="Where Am I? Select your adventure">
+  	<img width = "30%" src="https://play-lh.googleusercontent.com/eZBTuPa15H0whvMW5NzovJIw-UTN9ZpCYDNA3GLb0wXlqkOQHXklUen4jGvwZc3MzcZ7=w5120-h2880-rw" alt="Where Am I? - Explore">
+  	<img width = "30%" src="https://play-lh.googleusercontent.com/hcYOarx0ZciOpItsz40PyNK6vWuluxr3pfYHc9_IybjQumHbcsO7jvT3OyCF85E1uDQ=w5120-h2880-rw" alt="Where Am I? - Fall in love">
 </div>
 
 ## Download
