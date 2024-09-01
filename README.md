@@ -57,7 +57,5 @@ Where Am I? is a fun and educational game that brings the world to your fingerti
 <div align="center">
 	<img width = "100%" src="https://whereamigame.app/baner_1024x500.png" alt="Where Am I? Banner">
 </div>
-<head>
-<meta name="google-site-verification" content="2Z1LZdp4UAp5PCfFJ4bx_dBVE3TEN9IOktfg87Nid14" />
-</head>
+
 
