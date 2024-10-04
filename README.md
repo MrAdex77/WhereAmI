@@ -2,9 +2,11 @@
 	<img width = "33%" src="https://whereamigame.app/logo_transparent.png" alt="Where Am I? Logo">
 </div>
 
-# Where Am I? - A Free GeoGuessr Alternative
+# [Where Am I?](https://whereamigame.app/) - A Free GeoGuessr Alternative
 
 Welcome to **Where Am I?**, a free and exciting alternative to GeoGuessr that takes you on a global adventure. This location-based game challenges you to guess the locations of street walk videos from around the world. Compete with friends, earn badges, and rise to the top of the leaderboard in this immersive exploration game!
+
+
 
 [![Download on the App Store](https://whereamigame.app/app-store.svg)](https://apps.apple.com/us/app/where-am-i-explore-the-world/id6657987209) 
 [![Get it on Google Play](https://whereamigame.app/play-store.svg)](https://play.google.com/store/apps/details?id=com.adex77.WhereAmI)
@@ -15,6 +17,7 @@ Welcome to **Where Am I?**, a free and exciting alternative to GeoGuessr that ta
 - [Gameplay](#gameplay)
 - [Screenshots](#screenshots)
 - [Download](#download)
+- [Website](https://whereamigame.app/)
 
 ## Features
 
@@ -50,12 +53,12 @@ In **Where Am I?**, you embark on a virtual journey across the globe. The game p
 [![Download on the App Store](https://whereamigame.app/app-store.svg)](https://apps.apple.com/us/app/where-am-i-explore-the-world/id6657987209)
 [![Get it on Google Play](https://whereamigame.app/play-store.svg)](https://play.google.com/store/apps/details?id=com.adex77.WhereAmI)
 
-Where Am I? is a fun and educational game that brings the world to your fingertips. Whether you're a geography enthusiast or just looking for a new challenge, this game has something for everyone. Start your global adventure today!
+[Where Am I?](https://whereamigame.app/) is a fun and educational game that brings the world to your fingertips. Whether you're a geography enthusiast or just looking for a new challenge, this game has something for everyone. Start your global adventure today!
 
 
 
 <div align="center">
-	<img width = "100%" src="https://whereamigame.app/baner_1024x500.png" alt="Where Am I? Banner">
+	<img width = "100%" src="https://whereamigame.app/baner_1024x500.png" alt="Where Am I? Banner" >
 </div>
 
 
