@@ -56,6 +56,7 @@ In **Where Am I?**, you embark on a virtual journey across the globe. The game p
 [Where Am I?](https://whereamigame.app/) is a fun and educational game that brings the world to your fingertips. Whether you're a geography enthusiast or just looking for a new challenge, this game has something for everyone. Start your global adventure today!
 
 
+[Free GeoGuessr Alternative in 2025!](https://whereamigame.app/)
 
 <div align="center">
 	<img width = "100%" src="https://whereamigame.app/baner_1024x500.png" alt="Where Am I? Banner" >
