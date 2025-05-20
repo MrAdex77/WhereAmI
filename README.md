@@ -21,6 +21,8 @@ Welcome to **Where Am I?**, a free and exciting alternative to GeoGuessr that ta
 
 ## Features
 
+- **Real Street‑Walk Videos**: Immerse yourself in live‑action video tours—no static images.
+- **Completely Free**: No subscriptions, no paywalls—ever.
 - **Explore the World**: Watch street walk videos from various countries and guess the locations.
 - **Compete with Friends**: Engage in multiplayer duels, join weekly tournaments, and challenge your friends.
 - **Earn Badges**: Collect badges for visiting different countries and landmarks.
